@@ -94,7 +94,7 @@ Minimal xotira: 4 GB RAM, 10 GB bo'sh disk maydoni.
 O'rnatish qadamlari:
 
 Repozitoriyani klon qiling:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/fatxioken06/Dorixona-va-dorilar-qidiruv-tizimi.git
 
 
 SQL Server’da Dorilar jadvalini yuqoridagi so'rov yordamida yarating.
