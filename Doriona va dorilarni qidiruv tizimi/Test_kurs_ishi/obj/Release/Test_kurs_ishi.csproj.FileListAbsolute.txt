@@ -1,0 +1,16 @@
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\bin\Release\Test_kurs_ishi.exe.config
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\bin\Release\Test_kurs_ishi.exe
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\bin\Release\Test_kurs_ishi.pdb
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.Form1.resources
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.Properties.Resources.resources
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.csproj.GenerateResource.Cache
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.exe
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.pdb
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.csprojResolveAssemblyReference.cache
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.Form2.resources
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.Form3.resources
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.Form4.resources
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Test_kurs_ishi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.Form5.resources
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Doriona va dorilarni qidiruv tizimi\Test_kurs_ishi\bin\Release\Test_kurs_ishi.exe.config
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Doriona va dorilarni qidiruv tizimi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.exe
+C:\Users\NSB\Documents\Visual Studio 2012\Projects\Doriona va dorilarni qidiruv tizimi\Test_kurs_ishi\obj\Release\Test_kurs_ishi.pdb
